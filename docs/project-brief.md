@@ -2,7 +2,7 @@
 
 ## Overview
 
-Stocksplained is an entry for the Applied Thinking Challenge at Ajman University, hosted with the Office of Finance. It translates stock market data into plain language for UAE residents aged 40–60. It explains metrics; it never replaces them or gives advice.
+Stocksplained was pitched at the Applied Thinking Challenge, hosted at Ajman University in collaboration with the Department of Finance. It translates stock market data into plain language for UAE residents aged 40–60. It explains metrics; it never replaces them or gives advice.
 
 **One-liner:** Stocksplained turns confusing stock market numbers into plain language, so adults aged 40–60 can understand their investments with confidence.
 

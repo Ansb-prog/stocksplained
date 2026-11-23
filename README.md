@@ -8,7 +8,7 @@
 
 Stocksplained turns confusing stock market numbers into plain language, so adults aged 40–60 in the UAE can understand their investments with confidence. It explains metrics in Arabic and English with local analogies. It never tells anyone what to buy or sell.
 
-Built for the **Applied Thinking Challenge at Ajman University** (Ajman University × DoF Challenge Bootcamp).
+Pitched at the **Applied Thinking Challenge**, hosted at **Ajman University** in collaboration with the **Department of Finance**.
 
 ## What's in this repo
 
